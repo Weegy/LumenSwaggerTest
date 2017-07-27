@@ -8,5 +8,6 @@ Swagger URL:
 http://{$HOST}/api/documentation
 
 1. Dockerfile (enter own IP)
-2. app/controller/controller.php (enter own HOST / IP)
+2. Map folder /www to /var/www/site
+3. app/controller/controller.php (enter own HOST / IP)
 
